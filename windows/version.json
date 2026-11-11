@@ -1,1 +1,1 @@
-{"version": "1.0.2", "url": "https://spedinavi.de/app/SpedinaviDispo-Setup.exe", "notes": "Lizenz-Freischaltung repariert (Prüfung der Server-Signatur)."}
+{"version": "1.0.3", "url": "https://github.com/turrican1001/LkwNavi-Updates/raw/main/windows/SpedinaviDispo-Setup.exe", "sha256": "f079b8b9c4c4e38ce59a24673503fb2552b27cb8859b64322f09863a750aad19", "notes": "Besser lesbar: helle Navigation, Schrift in allen Knöpfen sichtbar. Neu: Updates lädt und installiert das Programm jetzt selbst und startet danach neu."}
